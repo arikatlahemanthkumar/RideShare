@@ -46,22 +46,11 @@
     ->paymentDate
     ->receipt
 
-7. carTacking - model:
-    ->carOwnerId
-    ->currentLocation 
-        > latitude
-        > longitude
-    ->route
-    ->lastUpdated
+
 
 8. review-model
     carOwner Id
     ratings
     comments
-9. notification - model 
-   user Id
-   message
-   type
-   isRead
-   createdAt
+
 
